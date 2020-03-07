@@ -43,3 +43,11 @@ for x in range(int(ilewierszy)):
         przemiennawiersza = 0
 
 input("Wciśnij dowolny klawisz aby wyjść.")
+
+# 1. Proszę pamiętać że programujemy po angielsku :)
+# 2. Fajnie że nazwy zmiennych są czytelne. Proszę tylko zastosować język angielski i pewną konwencję, np.
+# camelCase: czyliNazwaJestPisanaWTenSposób
+# zmienne_oddzielone_dolnymi_spacjami
+# sNameOfUser
+# iNumberOfColumn
+# to już jest idealne nazwenictwo: Po angielsku, czytelne, oraz pokazuje jakiego typu jest zmienna.
